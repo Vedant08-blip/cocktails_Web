@@ -1,45 +1,56 @@
-# 🍸 GSAP Cocktails — Animated Scroll Experience
+<h1 align="center">🍸 GSAP Cocktails — Animated Scroll Experience</h1>
 
-A beautifully animated, scroll-driven cocktail website built with **React**, **GSAP**, **Tailwind CSS**, and **Vite**.  
-Experience smooth parallax, cinematic video syncing, SplitText animations, and custom carousels — all optimized for every screen size.
+<p align="center">
+  <a href="https://github.com/Vedant08-blip">
+    <img src="https://img.shields.io/github/stars/Vedant08-blip/gsap_cocktails?style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Vedant08-blip">
+    <img src="https://img.shields.io/github/forks/Vedant08-blip/gsap_cocktails?style=for-the-badge" alt="GitHub Forks" />
+  </a>
+  <img src="https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/GSAP-3.x-88CE02?style=for-the-badge&logo=greensock" alt="GSAP" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vite-4.x-646CFF?style=for-the-badge&logo=vite" alt="Vite" />
+</p>
+
+<p align="center">
+  A cinematic, scroll-driven cocktail website powered by GSAP animations, built with React, Tailwind CSS, and Vite.
+  Enjoy parallax, SplitText reveals, scroll-synced videos, and custom carousels — all responsive & performance-optimized.
+</p>
 
 ---
 
-## 🚀 Demo
-**Live Preview:** _Coming Soon_
+## 🎥 Live Demo
+🔗 **[View Demo](https://your-demo-link.com)**  
+_(Replace with your deployed site link)_
+
+![Project Preview](https://via.placeholder.com/1000x500?text=Project+Preview+GIF+Here)
 
 ---
 
 ## ✨ Features
-- **GSAP SplitText Animations** for bold and engaging reveals
-- **ScrollTrigger Timelines** to control animations with scrolling
-- **Parallax & Image Masking** for immersive visuals
-- **Pinned Sections** for interactive storytelling
-- **Scroll-Synced Video Playback**
-- **Custom Animated Carousel**
-- **Fully Responsive** across devices
+- 🎯 **SplitText Animations** — Impactful text reveals
+- ⏳ **ScrollTrigger Timelines** — Scroll-based control
+- 🌄 **Parallax Scrolling** — Immersive depth effects
+- 📌 **Pinned Sections** — Lock sections for storytelling
+- 🎬 **Scroll-Synced Video** — Cinematic experiences
+- 🖼 **Image Masking** — Creative visual transitions
+- 🎠 **Custom Carousel** — Smooth animated slides
+- 📱 **Responsive Design** — Works on all devices
 
 ---
 
 ## 🛠 Tech Stack
-- [React](https://reactjs.org/) — Component-based UI
-- [GSAP](https://greensock.com/gsap/) — High-performance animations
-- [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling
-- [Vite](https://vitejs.dev/) — Lightning-fast build tool
+- ⚛️ **React** — Component-based UI
+- 🎨 **Tailwind CSS** — Utility-first styling
+- 🎯 **GSAP** — Professional-grade animations
+- ⚡ **Vite** — Fast development & builds
 
 ---
 
-## 📦 Installation
+## 🚀 Getting Started
 
+### 1️⃣ Clone Repository
 ```bash
-# Clone this repository
 git clone https://github.com/adrianhajdin/gsap_cocktails.git
-
-# Move into project folder
 cd gsap_cocktails
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
