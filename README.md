@@ -1,17 +1,5 @@
 <h1 align="center">🍸 GSAP Cocktails — Animated Scroll Experience</h1>
 
-<p align="center">
-  <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-Visit_Now-green?style=for-the-badge&logo=google-chrome" alt="Live Demo" /></a>
-  <a href="https://www.youtube.com/c/JavaScriptMastery"><img src="https://img.shields.io/badge/Tutorial-Watch_Now-red?style=for-the-badge&logo=youtube" alt="Tutorial" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Vedant08-blip/gsap_cocktails?style=social" />
-  <img src="https://img.shields.io/github/forks/Vedant08-blip/gsap_cocktails?style=social" />
-</p>
-
----
-
 ## 🎥 Live Demo
 🔗 **[Click Here to View Project](https://cocktails-web-nu.vercel.app/)**
 
